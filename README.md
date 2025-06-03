@@ -1,71 +1,36 @@
-# 🛡️ Cybersecurity Resource Hub (Free & Freemium)
+# 📚 Free Cybersecurity Learning
 
-Welcome! This is a curated collection of **free or partly free** cybersecurity learning resources, created by and for people passionate about hacking, security, and self-education.
+This public repository gathers **free and freemium resources** for anyone interested in learning cybersecurity.
 
-Whether you're brand new or looking to sharpen your skills, this hub will help you find quality content without needing to pay.
-
----
-
-## 🚀 What You'll Find Here
-
-✅ Free and freemium online courses  
-✅ CTF platforms and practice labs  
-✅ Tools, write-ups, and tutorials  
-✅ Learning paths for beginners and beyond
-
-We focus on resources that are **fully free** or offer a **substantial free tier**, with no need to pay to get started.
+Whether you're a beginner or exploring advanced topics, this is a simple and growing list of platforms you can use to learn, practice, and level up — all without needing to pay.
 
 ---
 
-## 🧠 Start Here: Beginner Resources
+## 🔗 View the Resources
 
-Just getting started in cybersecurity?
-
-📍 [Click here to view `beginner.md`](./beginner.md)
-
-Includes:
-- Interactive platforms like TryHackMe, Hack The Box, and OverTheWire
-- Free courses and certificates (ISC2, FutureLearn)
-- Beginner-friendly YouTube channels and tutorials
+📍 [Click here to open `resources.md`](./resources.md)
 
 ---
 
-## 📂 Planned Sections
+## ✅ What's Included
 
-This project will grow over time. Upcoming sections may include:
+- Beginner platforms with hands-on labs
+- Crypto-focused puzzle sites
+- CTF platforms and binary exploitation tools
+- Free certification programs
 
-- `beginner.md` – Starter resources ✅  
-- `ctf-platforms.md` – CTFs and wargames (coming soon)  
-- `tools.md` – Useful tools for offensive/defensive security  
-- `certifications.md` – Free cert programs and exam prep  
-- `writeups.md` – Challenge solutions and walkthroughs  
-
-Want to help? See below 👇
+We only list platforms that are **free or meaningfully freemium** — no fluff, no marketing spam, no gated content for basics.
 
 ---
 
-## 🤝 How to Contribute
+## 💡 Contributing
 
-Know a good resource? Found a free lab, course, or video?
-
-1. Fork this repo
-2. Add your link to the relevant `.md` file (or create a new one)
-3. Make a pull request with a short description
-
-You can also open an issue with your suggestion if you're not comfortable editing files directly.
+Know a great platform that's free or mostly free?  
+Open a pull request or create an issue with your suggestion.
 
 ---
 
-## 🌍 Who Is This For?
+## 🙌 Goal
 
-Anyone who:
-- Wants to get into cybersecurity
-- Prefers free or open-access learning
-- Learns better with hands-on practice
-- Enjoys hacking ethically
-
-This resource list is open, inclusive, and constantly evolving. Contributions are welcome from anyone, anywhere.
-
-> 💬 “Hack your way to knowledge — but do it responsibly.”
-
----
+To make cybersecurity education more accessible, especially for beginners.  
+Feel free to share this repo with classmates, friends, or anyone curious about hacking — ethically, of course.
